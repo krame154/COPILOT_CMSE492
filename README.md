@@ -1,7 +1,7 @@
 # COPILOT_CMSE492
 
 ## Project Title
- IS there a corralation between fast food unhealiness and popularity 
+Is there a correlation between fast food unhealthiness and popularity?
 
 ## Setup Instructions
 1. Clone the repository using `git clone <repository-url>`.
